@@ -25,19 +25,7 @@ namespace PCNotifier
     public partial class MainWindow : Window
     {
         
-        private static string _pillName;
-        private string _text = $"You need to consume a medicine called \n{_pillName}";
-
-        public string PillName
-        {
-            get { return _pillName; }
-            set { _pillName = value; }
-        }
-
-        public string Text
-        {
-            get { return _text; }
-        }
+       
 
         
 
@@ -45,7 +33,7 @@ namespace PCNotifier
         {
             Loaded += ToolWindow_Loaded;
             InitializeComponent();
-            textLabel.Content = Text;
+            textLabel.Content = PillsInfoClass.Text;
         }
 
         // Prep stuff needed to remove close button on window
@@ -56,10 +44,6 @@ namespace PCNotifier
         [System.Runtime.InteropServices.DllImport("user32.dll")]
         private static extern int SetWindowLong(IntPtr hWnd, int nIndex, int dwNewLong);
 
-        public static void Name(string name)
-        {
-            _pillName = name;
-        }
 
         void ToolWindow_Loaded(object sender, RoutedEventArgs e)
         {
@@ -75,6 +59,6 @@ namespace PCNotifier
         {
             Close();
         }
-
+       
     }
 }
