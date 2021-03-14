@@ -12,7 +12,7 @@ namespace PCNotifier
         public static string Text { get { return _text; } set { _text = value; } }
         public static void SetPill(string PillName)
         {
-            Text = $"You need to consume a thing called {PillName}";
+            Text = $"You need to consume a thing called {PillName}"; 
         }  
     }
 }
