@@ -16,13 +16,20 @@ namespace PCNotifier
     /// </summary>
     public partial class MainWindow : Window
     {
+<<<<<<< HEAD
         
+=======
+
+>>>>>>> fbb046831dd3d9248d5e68ac0287e4fdea22f602
         public MainWindow()
         {
             Loaded += ToolWindow_Loaded;
             InitializeComponent();
             textLabel.Content = PillsInfoClass.Text;
+<<<<<<< HEAD
             
+=======
+>>>>>>> fbb046831dd3d9248d5e68ac0287e4fdea22f602
         }
 
         // Prep stuff needed to remove close button on window

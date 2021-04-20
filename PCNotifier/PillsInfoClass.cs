@@ -12,7 +12,11 @@ namespace PCNotifier
         public static string Text { get { return _text; } set { _text = value; } }
         public static void SetPill(string PillName)
         {
+<<<<<<< HEAD
             Text = $"You have to consume {PillName}";
+=======
+            Text = $"You need to consume a thing called {PillName}"; 
+>>>>>>> fbb046831dd3d9248d5e68ac0287e4fdea22f602
         }  
     }
 }
