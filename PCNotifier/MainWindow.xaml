@@ -6,20 +6,20 @@
         xmlns:local="clr-namespace:PCNotifier"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         mc:Ignorable="d"
-        Title=" " Height="150" Width="300" ResizeMode="NoResize" ShowInTaskbar="False" Topmost="True" Icon="pills.png">
+        Title=" " Height="170" Width="350" ResizeMode="NoResize" ShowInTaskbar="False" Topmost="True" Icon="pills.png">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="2*" />
             <RowDefinition Height="1*" />
         </Grid.RowDefinitions>
-        <Label x:Name="textLabel" Grid.Row="0" FontFamily="Segoe UI Semibold" >
+        <Label x:Name="textLabel" Grid.Row="0" FontFamily="Segoe UI Semibold" FontSize="15">
 
         </Label>
         <Button Grid.Row="1"
                  Style="{StaticResource MaterialDesignFlatLightBgButton}"
                  ToolTip="MaterialDesignFlatLightButton"
-                 Click="ButtonBase_OnClick" >
-            I did
+                 Click="ButtonBase_OnClick" FontSize="20" >
+            OKAY
         </Button>
     </Grid>
 </Window>

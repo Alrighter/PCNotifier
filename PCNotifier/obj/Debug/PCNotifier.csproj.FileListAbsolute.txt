@@ -20,3 +20,33 @@ D:\GitHub\PCNotifier\PCNotifier\obj\Debug\PCNotifier.csproj.CopyComplete
 D:\GitHub\PCNotifier\PCNotifier\obj\Debug\PCNotifier.exe
 D:\GitHub\PCNotifier\PCNotifier\obj\Debug\PCNotifier.pdb
 D:\GitHub\PCNotifier\PCNotifier\obj\Debug\App.baml
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\bin\Debug\PCNotifier.exe.config
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\bin\Debug\PCNotifier.exe
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\bin\Debug\PCNotifier.pdb
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\bin\Debug\MaterialDesignColors.dll
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\bin\Debug\MaterialDesignColors.pdb
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\obj\Debug\PCNotifier.csprojAssemblyReference.cache
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\obj\Debug\MainWindow.g.cs
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\obj\Debug\App.g.cs
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\obj\Debug\PCNotifier_MarkupCompile.cache
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\obj\Debug\PCNotifier_MarkupCompile.lref
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\obj\Debug\App.baml
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\obj\Debug\MainWindow.baml
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\obj\Debug\PCNotifier.g.resources
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\obj\Debug\PCNotifier.Properties.Resources.resources
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\obj\Debug\PCNotifier.csproj.GenerateResource.cache
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\obj\Debug\PCNotifier.csproj.CoreCompileInputs.cache
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\obj\Debug\PCNotifier.csproj.CopyComplete
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\obj\Debug\PCNotifier.exe
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\obj\Debug\PCNotifier.pdb
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\bin\Debug\PCNotifier.exe.manifest
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\bin\Debug\PCNotifier.application
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\obj\Debug\PCNotifier.exe.manifest
+C:\Users\volos\Desktop\Новая папка\PCNotifier\PCNotifier\obj\Debug\PCNotifier.application
+D:\GitHub\PCNotifier\PCNotifier\bin\Debug\PCNotifier.exe.manifest
+D:\GitHub\PCNotifier\PCNotifier\bin\Debug\PCNotifier.application
+D:\GitHub\PCNotifier\PCNotifier\obj\Debug\PCNotifier.exe.manifest
+D:\GitHub\PCNotifier\PCNotifier\obj\Debug\PCNotifier.application
